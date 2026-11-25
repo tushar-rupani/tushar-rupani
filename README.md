@@ -50,11 +50,6 @@ I take products from first idea to production: booking systems, multi-tenant Saa
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-### 🏅 Achievements
-
-- 🥇 **Gold medalist, BCA** — first rank at Sardar Patel University.
-- 🥇🥇🥇🥇 **Four gold medals, MCA** — first rank again, presented at Sardar Patel University's 66th convocation.
-
 ---
 
 <sub>Have something to build? Say hello at **[tusharrupani.dev/contact](https://tusharrupani.dev/contact)**.</sub>
